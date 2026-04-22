@@ -92,7 +92,7 @@ align-items:center;
 
 }
 
-.box{
+.modal-box{
 
 background:#111;
 
@@ -102,7 +102,7 @@ text-align:center;
 
 }
 
-.box input{
+.modal-box input{
 
 display:block;
 
